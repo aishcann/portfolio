@@ -9,7 +9,7 @@ const Porfolio = () => {
 				<h2>my work</h2>
 				<section className='project-buttons'>
 					<div className='button'>
-						<h3 onClick={handleClick}>In Your City</h3>
+						<h3>In Your City</h3>
 						<p>
 							Full Stack app utilizing React, Python, Django, PostgreSQL, and
 							Sass
