@@ -1,0 +1,56 @@
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: #f3def7;
+
+    .intro {
+        text-align: center;
+        margin: 30px;
+        width: 600px;
+        padding: 10px 10px 0px 10px;
+
+        h1{
+            font-size: 50px;
+            margin: 5px 5px 10px 5px;
+        }
+        
+        .prof-photo{
+            width: 200px;
+            border-radius: 50%;
+            margin: 5px 5px 10px 5px;
+        }
+
+        .links {
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            flex-direction: row;
+            height: 50px;
+            margin-bottom: 10px;
+    
+            img {
+                height: 40px;
+            }
+
+        }
+
+        p {
+            margin: 5px 5px 10px 5px;
+        }
+
+        h3{
+            margin: 5px 5px 10px 5px;
+            font-size: 18px;
+        }
+
+        ul {
+            display: flex;
+            flex-direction: row;
+            list-style: none;
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+            padding: 0;
+            margin: 5px 5px 0px 5px;
+        }
+    }
+}

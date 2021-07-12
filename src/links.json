@@ -1,0 +1,18 @@
+[
+    {
+        "name": "linkedin",
+        "icon": "assets/linkedin.png",
+        "url": "https://www.linkedin.com/in/aisha-cannon/"
+    },
+    {
+        "name": "github",
+        "icon": "assets/github.png",
+        "url": "https://github.com/aishcann"
+    },
+    {
+        "name": "resume",
+        "icon": "assets/writing.png",
+        "url": "https://docs.google.com/document/d/1HTLsLZBhJIy2Ae5Q6a0dCsLsrlAa4U5m1gN2xWgy02I/edit?usp=sharing"
+    }
+
+]
